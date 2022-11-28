@@ -1,2 +1,0 @@
-# frist_project
-html
